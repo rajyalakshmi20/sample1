@@ -1,0 +1,62 @@
+.box1 {
+    width: 35%;
+    height: 25%;
+}
+
+#one {
+    margin-left: 10px;
+    line-height: 35px;
+}
+
+.box2 {
+    width: 35%;
+    height: 25%;
+}
+
+#two {
+    margin-left: 10px;
+    line-height: 35px;
+}
+
+.box3 {
+    width: 35%;
+    height: 30%;
+}
+
+#three {
+    margin-left: 10px;
+    line-height: 35px;
+}
+
+.box4 {
+    width: 35%;
+    height: 20%;
+
+}
+
+#four {
+    margin-left: 10px;
+    line-height: 25px;
+    display: flex;
+}
+
+td {
+    width: 50%;
+}
+
+.sin {
+    width: 50%;
+}
+
+.box5 {
+    width: 35%;
+    height: 28%;
+}
+
+.bin {
+    display: flex;
+}
+
+.prop {
+    display: block;
+}
